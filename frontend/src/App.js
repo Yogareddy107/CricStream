@@ -14,7 +14,7 @@ function App() {
     const todayMatch = {
         team1: "Chennai Super Kings",
         team2: "Royal Challengers Bengaluru",
-        score1: "-- (20)",
+        score1: "37/2 (4 overs)",
         score2: "-- (20)",
         status: "LIVE",
     };
