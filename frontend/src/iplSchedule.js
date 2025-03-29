@@ -155,19 +155,32 @@ const iplSchedule = [
             matchSummary: "LSG chased 191 in 19.1 overs"
         }
     },
-    {
-        matchId: 8,
-        matchNumber: 8,
-        date: "March 28, 2025",
-        time: "19:30 IST",
-        day: "Friday",
-        home: "Chennai Super Kings",
-        away: "Royal Challengers Bengaluru",
-        venue: "M.A. Chidambaram Stadium, Chennai",
-        matchStatus: "Upcoming",
-        liveScore: null,
-        matchStats: null
-    },
+    
+        {
+            matchId: 8,
+            matchNumber: 8,
+            date: "March 28, 2025",
+            time: "19:30 IST",
+            day: "Friday",
+            home: "Chennai Super Kings",
+            away: "Royal Challengers Bengaluru",
+            venue: "M.A. Chidambaram Stadium, Chennai",
+            matchStatus: "Completed",
+            liveScore: {
+                homeScore: "146/8 (20 overs)",
+                awayScore: "196/7 (20 overs)",
+                winner: "RCB won by 50 runs"
+            },
+            matchStats: {
+                tossWinner: "RCB",
+                topScorer: "Rajat Patidar - 51 (32)",
+                bestBowler: "Josh Hazlewood - 3/21",
+                matchSummary: "RCB posted 196/7; CSK managed 146/8 in response."
+            }
+        },
+       
+   
+    
     {
         matchId: 9,
         matchNumber: 9,

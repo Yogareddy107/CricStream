@@ -12,11 +12,11 @@ function App() {
 
     // Today's Live Match Data
     const todayMatch = {
-        team1: "Chennai Super Kings",
-        team2: "Royal Challengers Bengaluru",
-        score1: "37/2 (4 overs)",
-        score2: "-- (20)",
-        status: "LIVE",
+        team1: "Gujarat Titans",
+        team2: "Mumbai Indians",
+        score1: "-- (20 overs)",
+        score2: "-- (20 overs)",
+        status: "UPCOMMING",
     };
 
     // IPL Schedule Data
